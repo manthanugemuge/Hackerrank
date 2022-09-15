@@ -1,7 +1,7 @@
 # Hackerrank
 
-C Language
-C++
+- C Language
+- C++
 
 
 ## Contributing
